@@ -1,0 +1,25 @@
+/* El selector * agarra a todos los elementos */
+*{
+    background-color: azure;
+    margin: 0px;
+    padding: 0px;
+}
+.header-container{
+    display: flex;
+    width: 100%;
+    height: 150px;
+
+}
+
+.logo-header
+
+
+.barnav
+
+
+.lista-navegacion
+
+body{
+    display: flex;
+    flex-direction: column;
+}
